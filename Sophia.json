@@ -60,6 +60,11 @@
           "name": "GHOSTX MOD",
           "lib_name": "lib7.so",
           "download_url": "https://github.com/Niuniu143/XuMuyan/raw/refs/heads/main/lib7.so"         
+          },
+        {
+          "name": "AETHER MOD",
+          "lib_name": "lib30.so",
+          "download_url": "https://github.com/Niuniu143/New/raw/refs/heads/main/lib30.so"
         }
       ]
     }
